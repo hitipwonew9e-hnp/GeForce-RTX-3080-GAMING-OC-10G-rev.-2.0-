@@ -1,0 +1,180 @@
+.gaming{
+   background-color: aliceblue; 
+   max-width: 1000px;
+   max-height: 1000px;
+   padding-bottom: 0.001%;
+   padding-right: 100%;
+ margin-top: 40px;
+
+
+}
+.game{
+    
+   
+  padding-left: 50px;
+}
+.name{
+    color: aliceblue;
+}
+.introduction{  
+background-color: rgb(7, 2, 2);
+}
+.conteiner {
+   
+    padding-bottom: none;
+} 
+.introduction2{
+    color: rgb(255, 255, 255);
+}
+ .r{
+     color: orange;
+ }
+ .inf{
+     color: rgb(226, 21, 21);
+     font-size:30px;
+   
+ }
+.introduction2{
+    padding-top: 3rem;
+    margin-left: 4%;
+    margin-right: -100px;
+}
+.information{
+    padding-top: 5%;
+    max-width: 1000px;
+ max-height: 1000px;
+ padding-left: 5%;
+   
+
+}
+.photo1{
+width: 64%;
+height: 54%;
+max-width: 1000px;
+max-height: 1000px;
+padding-left: 15%;
+
+}
+.ho{
+display: flex;
+align-items: flex-end;
+}
+.infor{
+    color: azure;
+    font-size: 50px;
+    text-shadow: 3px 3px 6px aquamarine;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.ffrequency{
+    color: rgb(255, 250, 240);
+    font-size: 50px;
+    text-shadow: 3px 3px 6px aquamarine;   
+    max-width: 1000px;
+max-height: 1000px;
+padding-left: 9%;
+
+}
+.fffrequency{
+    color: rgb(226, 21, 21);
+    font-size:30px;  
+    padding-left: 4%; 
+    max-width: 1000px;
+    max-height: 1000px;
+}
+.windforce{
+    max-width: 1000px;
+    max-height: 1000px;
+    padding-left: 6%; 
+}   
+.block{
+    margin-top: 20px;
+    background-color: black;
+}
+.img{
+    max-width: 1000px;
+   max-height: 1000px; 
+   width: 700px;
+   height: 700px;
+}
+.two{
+    display: flex;
+}
+.info{
+    margin-top: 10%;
+    font-size: 30px;
+    max-width: 1000px;
+   max-height: 1000px;
+    color: rgb(209, 29, 29);
+}
+.wind{
+    color: azure;
+    font-size: 35px;
+    text-shadow: 3px 3px 6px aquamarine;
+    margin-bottom: -5%;
+    max-width: 1000px;
+    max-height: 1000px;
+    padding-left: 20%;
+    padding-top: 5%;
+
+}
+.windl{
+    margin-bottom: -23.6%;
+    padding-left: 20%;  
+    background-color: black; 
+}
+
+.animation{
+    padding-bottom: -0.8%;
+    max-width: 1000px;
+    max-height: 1000px;
+   
+
+    background-color: black;
+}
+.lol{
+    padding-bottom: 1000px;
+    
+}
+.bo{
+    padding-top: 2% ;
+    
+    background-color:rgb(255, 0, 0);
+}
+.imganim{
+    max-width: 1000px;
+    max-height: 1000px;
+    width: 500px; 
+    height: 330px;
+    padding-top: 12%;
+    padding-right: 5%;
+}
+.twoo{
+    display: flex;
+    flex-direction: row-reverse;
+    
+   
+}
+.inform{
+    padding-left: 2%;
+    max-width: 1000px;
+    max-height: 1000px;
+    margin-top: 10%;
+    font-size: 30px;
+    color: rgb(209, 29, 29);
+  
+}
+.aiff{
+    color: azure;
+    font-size: 35px;
+    text-shadow: 3px 3px 6px aquamarine;
+    margin-bottom: -5%;
+    padding-left: 2%;
+    padding-top: 5%;
+   
+}
+.roo{
+    flex-wrap: wrap;
+}
