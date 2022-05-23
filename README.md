@@ -1,0 +1,1 @@
+# GeForce-RTX-3080-GAMING-OC-10G-rev.-2.0-
