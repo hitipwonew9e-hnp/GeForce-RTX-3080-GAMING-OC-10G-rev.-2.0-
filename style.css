@@ -1,0 +1,136 @@
+body{
+    background-color: rgba(232, 250, 70, 0.85);
+}
+.icon{
+width:3rem ;
+}
+img{
+    max-width: 100%;
+}
+.name{
+    text-decoration: none;
+  display: flex;
+}
+.game{
+    color: black; 
+    margin-left: 7%;
+    font-family: 'Permanent Marker', cursive;
+}
+.first{
+    background-color: rgb(247, 119, 119);
+}
+.png{
+   align-content: center;
+   justify-content: center;
+   margin-top: 13rem;
+}
+.text{
+    background-image: url(lol.jpg);
+    background-size:cover ;
+    background-position: 50% 50%;
+    background-attachment: fixed;
+}
+.GeForce{
+    color: aliceblue;
+    margin-top: 70px;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 800;
+    text-shadow: 6px 2px 5px rgb(255, 177, 177);
+}
+.info{
+    background-color: rgb(244, 134, 134, 0.7);
+    border-radius: 16px;
+    font-size: 1.4rem;
+  font-weight: 600;
+}
+.info2{
+    background-color: rgba(232, 250, 70, 0.701);
+    border-radius: 16px;
+    font-size: 1.4rem;
+    font-weight: 700;
+    
+  
+}
+.li{
+    list-style-type: none; 
+}
+.text2{
+    background-image: url(lo.jpg);
+    background-size:cover ;
+    background-position: 50% 50%;
+    background-attachment: fixed;  
+    margin-top: 2%;
+}
+
+.name2{
+    padding-top: 7%;
+    padding-bottom: 4%;
+}
+.money{
+    background-color: rgba(240, 21, 21, 0.459);
+    border-radius: 16px;
+    font-size: 1.4rem;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 5%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    text-shadow: 1px 0px 3px rgb(255, 255, 255);
+    font-size: 30px;
+}
+.text3{
+    background-image: url(03.jpg);
+    background-size:cover ;
+    background-position: 50% 50%;
+    background-attachment: fixed;  
+    margin-top: 2%;
+}
+.jo{
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    text-shadow: 4px 4px 5px rgb(106, 106, 106);
+  
+}
+.po{
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    font-size: 20px;
+}
+.text4{
+    background-image: url(1080Ti-Custom-main.jpg);
+    background-size:cover ;
+    background-position: 50% 50%;
+    background-attachment: fixed;  
+    margin-top: 2%;
+    
+}
+
+.name3{
+    padding-bottom: 20%;
+    padding-top: 10%;
+}
+.loll{
+    background-color: rgb(168, 168, 168); 
+    color: rgb(0, 0, 0);
+    border-left: 3px rgb(0, 0, 0);
+    border-right: 3px solid rgb(0, 0, 0);
+    border-top:3px solid rgb(0, 0, 0);
+   
+}
+.lololo{
+    display:flex;  
+    margin-left: 2%;  
+}
+.sothial{
+    display:flex;  
+    margin-left: 10%; 
+}
+.delivery{
+    max-width: 100px;
+   width: 40%;
+    }
+    .lol{
+        text-decoration: none;
+    }
