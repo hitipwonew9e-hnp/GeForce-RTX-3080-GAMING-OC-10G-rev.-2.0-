@@ -1,0 +1,251 @@
+body{
+    background-color: rgba(119, 221, 247);
+}
+.icon{
+width:3rem ;
+}
+.png{
+    width: 70%;
+    margin-left: 15%;
+}
+img{
+    max-width: 100%;
+}
+.name{
+    text-decoration: none;
+  display: flex;
+}
+.game{
+    color: black; 
+    margin-left: 7%;
+    font-family: 'Permanent Marker', cursive;
+}
+.first{
+    background-color: rgb(142, 246, 191);
+}
+.png{
+   align-content: center;
+   justify-content: center;
+   margin-top: 13rem;
+}
+.text{
+    background-image: url(lol.jpg);
+    background-size:cover ;
+    background-position: 50% 50%;
+    background-attachment: fixed;
+}
+.gif{
+    align-items: center;
+}
+.GeForce{
+    color: aliceblue;
+    margin-top: 70px;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 800;
+    text-shadow: 6px 2px 5px rgb(142, 246, 191);
+}
+.info{
+    /* background-color: rgba(39, 55, 168, 0.7); */
+   border-radius: 16px;
+   font-size: 1.4rem;
+  font-weight: 700;
+  color: aliceblue;
+  list-style-type: none; 
+  text-align: right;
+}
+.info li:nth-child(2n){
+    background-color: rgba(142, 246, 191, 0.637);
+    color: black;
+    padding: 6px 0;
+    border-radius: 7px;
+    padding-right: 5%;
+}
+.info li:nth-child(2n + 1){
+    background-color: rgba(44, 61, 187, 0.7);
+    padding: 6px 0;
+    border-radius: 7px;
+    padding-right: 5%;
+}
+.name2{
+    align-items: center;
+}
+
+
+.li{
+    list-style-type: none; 
+}
+.text2{
+    background-image: url(lo.jpg);
+    background-size:cover ;
+    background-position: 50% 50%;
+    background-attachment: fixed;  
+    margin-top: 2%;
+}
+
+.name2{
+    padding-top: 7%;
+    padding-bottom: 4%;
+}
+.money{
+    background-color: rgba(240, 21, 21, 0.459);
+    border-radius: 16px;
+    font-size: 1.4rem;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 5%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    text-shadow: 1px 0px 3px rgb(255, 255, 255);
+    font-size: 30px;
+}
+.text3{
+    background-image: url(23.jpg);
+    background-size:cover;
+    background-position: 50% 50%;
+    background-attachment: fixed;  
+    margin-top: 2%;
+}
+.jo{
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    text-shadow: 4px 4px 5px rgb(106, 106, 106);
+  
+}
+.pop{
+    color: rgb(255, 255, 255);
+   
+    font-size: 20px;
+    background-color: rgba(255, 127, 209, 0.668);
+    border-radius: 70px;
+    font-size: 1.4rem;
+    font-weight: 700;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%; 
+}
+.po{
+    color: rgb(255, 255, 255);
+   
+    font-size: 20px;
+    background-color: rgba(255, 89, 0, 0.668);
+    border-radius: 70px;
+    font-size: 1.4rem;
+    font-weight: 700;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.text4{
+    background-image: url(1080Ti-Custom-main.jpg);
+    background-size:cover ;
+    background-position: 50% 50%;
+    background-attachment: fixed;  
+    margin-top: 2%;
+    
+}
+
+.name3{
+    padding-bottom: 20%;
+    padding-top: 10%;
+ 
+}
+.loll{
+   
+    color: rgb(0, 0, 0);
+    border-left: 3px rgb(0, 0, 0);
+    border-right: 3px solid rgb(0, 0, 0);
+    border-top:3px solid rgb(0, 0, 0);
+   
+}
+.lololo{
+    display:flex;  
+    margin-left: 2%;  
+}
+.sothial{
+    display:flex;  
+    margin-left: 10%; 
+}
+.delivery{
+    max-width: 100px;
+   width: 40%;
+    }
+    .lol{
+        text-decoration: none;
+    }
+    .lo{
+        width: 80%;
+        margin-left: 10%;
+    }
+    .cofe{
+        width: 75%;
+        align-items: center;
+        margin-left: 10%;
+    }
+
+
+
+    .end{
+        background-color: black;
+    }
+    .icon22{
+        width: 40%;
+        align-items: center;
+        margin-left: 24%;
+    }
+  .fpp{
+    color: rgb(151, 151, 151);
+      font-size: 14px;
+      margin-top: 2%;
+
+  }
+  .ok{
+      margin-top: 5%;
+  }
+  .coooo{
+    margin-top: 5%;
+    color: aliceblue;
+    font-size: 17px;
+    margin-left: 20%;
+  }
+  .rpjho{
+    margin-top: 3%;
+    color: aliceblue;  
+  }
+  .doc{ 
+    color: aliceblue;  
+    
+    margin-right: 2%;
+  }
+  .otu{ 
+      margin-top: 1%;
+  }
+  .histori{
+    color: rgb(78, 173, 255); 
+    font-weight: 900; 
+    margin-bottom: 30px; 
+    font-size: 30px;
+    text-align: center;
+    
+  }
+  .doctor{
+    text-decoration: none;
+  }
+  .histori2{
+    color: rgb(78, 173, 255); 
+    font-weight: 900; 
+    margin-bottom: 30px; 
+    font-size: 30px;
+    text-align: center;
+  }
+  .so{
+    margin-left: 20%; 
+    margin-bottom: 5%;
+  }
+  .grope {
+      text-align: center;
+  }
+ 
